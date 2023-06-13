@@ -1,5 +1,5 @@
 
-https://www.google.com/search?q=kali+linux+wallpaper&tbm=isch&ved=2ahUKEwir49D38r__AhXC-aQKHRa6BrMQ2-cCegQIABAA&oq=KAL%C4%B0+&gs_lcp=CgNpbWcQARgAMgcIABCKBRBDMggIABCABBCxAzIICAAQgAQQsQMyBwgAEIoFEEMyBQgAEIAEMgcIABCKBRBDMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECCMQJzoNCAAQigUQsQMQgwEQQzoKCAAQigUQsQMQQ1CLCFj7DWCuFmgAcAB4AIABmAGIAa4GkgEDMC42mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=ITKIZOvOMMLzkwWW9JqYCw&bih=746&biw=1536&rlz=1C1CHZN_trTR1029TR1029#imgrc=jYtoOssQhfKqUM
+
 <h1 align="center">Merhaba 👋, ben Can</h1>
 <p align="left"> <a href="https://twitter.com/canbozyigitt" target="blank"><img src="https://img.shields.io/twitter/follow/canbozyigitt?logo=twitter&style=for-the-badge" alt="canbozyigitt" /></a> </p>
 
