@@ -3,18 +3,18 @@
 
 <p align = "left"> <a href = "https://twitter.com/canbozyigitt" target = "blank"><img src = " https://img.shields.io/twitter/follow/canbozyigitt?logo=twitter&style=for-the-badge" alt="canbozyigitt" /></a> </p>
 
-- 🔭 Şu anda üzerinde çalışıyorum * Mobil uygulama geliştiriyorum*
+- 🔭 Şu anda üzerinde çalışıyorum * *Mobil uygulama geliştirme**
 
 - 🌱 Şu anda **flutter** öğreniyorum
 
 - 📫 Bana nasıl ulaşırsınız **umutcanbozyigit34012@gmail.com**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
-<p align = "left">
-<a href = "https://twitter.com/canbozyigitt" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt = "canbozyigitt" height = "30" genişlik = "40" /></a>
-<a href = "https:/ /linkedin.com/in/umutcan bozyiğit" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ Images/icons/Social/linked-in-alt.svg" alt="umutcan bozyiğit" height="30" width="40" /></a>
-<a href="https://instagram.com/can .bozyigitt" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram .svg" alt = "can.bozyigitt" height = "30" genişlik = "40" /></a>
-<a href = "https://discord.gg/Canbozyigitt" target = "boş"><img hizala ="center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt = "Canbozyigitt" height = "30 " width="40" /></a>
+< p align = "left">
+<a href = "https://twitter.com/canbozyigitt" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/ github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt = "canbozyigitt" height = "30" genişlik = "40" /></a>
+<a href = "https: //linkedin.com/in/umutcan bozyiğit" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src /images/icons/Social/linked-in-alt.svg" alt = "umutcan bozyiğit" height = "30" genişlik = "40" /></a>
+<a href = "https://instagram.com/ can.bozyigitt" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ instagram.svg" alt = "can.bozyigitt" height = "30" genişlik = "40" /></a>
+<a href = "https://discord.gg/Canbozyigitt" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt = "Canbozyigitt" height = " 30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
