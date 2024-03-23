@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <p align="left"> <a href="https://twitter.com/canbozyigitt" target="blank"><img src="https://img.shields.io/twitter/follow/canbozyigitt?logo=twitter&style=for-the-badge" alt="canbozyigitt" /></a> </p>
 
-- 🔭 I’m currently working on **siber güvenlik**
+- 🔭 I’m currently working on **mobile app developement**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **flutter**
 
 - 📫 How to reach me **umutcanbozyigit34012@gmail.com**
 
