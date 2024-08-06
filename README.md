@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mobile app development**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Vue.js** and **Python**
 
 - 📫 How to reach me **umutcanbozyigit34012@gmail.com**
 
