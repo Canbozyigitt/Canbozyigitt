@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Can </h1>
+<h1 align="center">Hi 👋, I'm Can</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canbozyigitt&label=Profile%20views&color=0e75b6&style=flat" alt="canbozyigitt" /> </p>
 
 <p align="left"> <a href="https://twitter.com/canbozyigitt" target="blank"><img src="https://img.shields.io/twitter/follow/canbozyigitt?logo=twitter&style=for-the-badge" alt="canbozyigitt" /></a> </p>
