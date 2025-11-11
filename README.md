@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/canbozyigitt" target="blank"><img src="https://img.shields.io/twitter/follow/canbozyigitt?logo=twitter&style=for-the-badge" alt="canbozyigitt" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile app development**
+- 🤖 I’m currently working on AI-driven automation projects using n8n
 
-- 🌱 I’m currently learning **Javascript** and **Python**
+- 🧠 I’m currently exploring autonomous agents, Supabase, and workflow orchestration
 
 - 📫 How to reach me **umutcanbozyigit34012@gmail.com**
 
